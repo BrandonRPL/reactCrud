@@ -1,0 +1,8 @@
+npx create-react-app . // Sirve para crear un proyecto con react y el . significa que en esta carpeta
+npm install axios //se usa en la carpeta de react para importar axios sirve para manejar las peticiones
+npm install mysql express // se usa en la carpeta del servidor, experes para el servidor y mysql para la conexion con la bd
+npm install cors //para desbloquear los cors
+npm index.js //para inicializar el server 
+npm start //para iniciar el cliente
+npm install sweetalert2 //popups toco intalarlo 2 veces por que la primera no funciono
+https://sweetalert2.github.io //link para manejarlo ahi hay botones para cada framework, si los clickeas te llevan a ejemplos de uso en cada framework
